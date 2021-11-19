@@ -1,7 +1,10 @@
-[pl]Remeber to put your initials in square brackets at rthe start of each section
+[EB]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
 insert team member names here
+Erlends and Leo
+Assassins Creed: Blackhole bounty
+
 
 Elevator pitch 
 Describe your game in 30 seconds or less
@@ -11,6 +14,9 @@ main differences in your game world
 ...
 Pillars
 3-4 fundementals of this game
+The core concept of the game is obviously parkour, but in multiple gravities!!
+You can travel to multiple planets and every planet has their unique missions, different garvity and different enemies.
+Combat is also different, the less the gravity, the slower and majestic the combat is going to be!
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
