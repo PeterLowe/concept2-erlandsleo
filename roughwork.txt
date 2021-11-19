@@ -23,7 +23,7 @@ This spin-off of the acclaimed Assassin's Creed series takes place in space in 2
 World Background
 main differences in your game world
 ...
-Pillars
+Pillars [EB]
 3-4 fundementals of this game
 The core concept of the game is obviously parkour, but in multiple gravities!!
 You can travel to multiple planets and every planet has their unique missions, different garvity and different enemies.
@@ -32,8 +32,12 @@ Combat is also different, the less the gravity, the slower and majestic the comb
 30 second gameplay description
 describe what its like to play the essence of the game loop
 ...
-Features points
+Features points [EB]
 All Assassins Creed's are set on earth but this new introduction to the franchise is set in outer space, something Assassins Creed has never done before!!
 ...
-Market analysis
+Market analysis [EB]
+This is just the latest addition to a franchise that people have enjoyed over the last decade.
+It's up there with other beloved freemode story games such as Far Cry and more.
+This is targetted towards late teens to adult customers due to mild gore in the game.
+Expected sales are gonna be easily into millions and will make a profit that will go into millions.
 similar games , typical customer, expected sales
