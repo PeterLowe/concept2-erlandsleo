@@ -1,13 +1,14 @@
 [EB]Remeber to put your initials in square brackets at rthe start of each section
 
-Title
-insert team member names here
+Insert team member names here:
 Erlends and Leo
-Assassins Creed: Blackhole bounty
 
+Title:
+Assassins Creed: Blackhole bounty
 
 Elevator pitch 
 Describe your game in 30 seconds or less
+This spin-off of the acclaimed Assassin's Creed series takes place in space in 2500AD, where an extraterrestial empire must deal with a potential enemy faction.
 ...
 World Background
 main differences in your game world
