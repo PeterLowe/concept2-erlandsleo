@@ -21,19 +21,26 @@ This spin-off of the acclaimed Assassin's Creed series takes place in space in 2
 
 ...
 World Background
-main differences in your game world
+The main setting of the game is the Moon, which features a variety of areas including a galactic city, a chemical sea, a human colony, and a wasteland. Other planets can be explored including Mars, Venus, etc.
 ...
 Pillars
+
 3-4 fundementals of this game
 The core concept of the game is obviously parkour, but in multiple gravities!!
 You can travel to multiple planets and every planet has their unique missions, different garvity and different enemies.
 Combat is also different, the less the gravity, the slower and majestic the combat is going to be!
+
+Open world sandbox world
+Weapons/crafting
+Character customization
+
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+As with every other sandbox, the player starts off in a random location (including last save location) and start off without any dangers unless enemies are provoked, resulting in fighting.
 ...
 Features points
-All Assassins Creed's are set on earth but this new introduction to the franchise is set in outer space, something Assassins Creed has never done before!!
+The scenery, the story, the customization features, the characters.
+
 ...
 Market analysis
 similar games , typical customer, expected sales
