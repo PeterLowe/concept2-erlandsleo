@@ -14,13 +14,16 @@ This spin-off of the acclaimed Assassin's Creed series takes place in space in 2
 [LC]
 
 Title
+[LC]
 Assassin's Creed: Blackhole Bounty
 
 Elevator pitch 
+[LC]
 This spin-off of the acclaimed Assassin's Creed series takes place in space in 2500AD, where an extraterrestial empire must deal with a potential enemy faction.
 
 ...
 World Background
+[LC]
 The main setting of the game is the Moon, which features a variety of areas including a galactic city, a chemical sea, a human colony, and a wasteland. Other planets can be explored including Mars, Venus, etc.
 ...
 Pillars
@@ -30,17 +33,22 @@ The core concept of the game is obviously parkour, but in multiple gravities!!
 You can travel to multiple planets and every planet has their unique missions, different garvity and different enemies.
 Combat is also different, the less the gravity, the slower and majestic the combat is going to be!
 
+[LC]
 Open world sandbox world
 Weapons/crafting
 Character customization
 
-...
-30 second gameplay description
+
+[LC]
 As with every other sandbox, the player starts off in a random location (including last save location) and start off without any dangers unless enemies are provoked, resulting in fighting.
 ...
 Features points
+[LC]
 The scenery, the story, the customization features, the characters.
 
 ...
 Market analysis
-similar games , typical customer, expected sales
+[LC]
+Similar to previous titles with influences from Grand Theft Auto and Saints Row IV
+Semi-serious gamers with interests in science fiction and alien fiction
+25-50 million copies expected to be sold
